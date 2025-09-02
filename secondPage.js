@@ -1,2 +1,1 @@
-console.log("Second Page Connected");
-// This should be on Staging
+console.log("secondPage has been connected");

@@ -1,1 +1,1 @@
-console.log("Connected Successfully");
+console.log("Globals has been connected");
