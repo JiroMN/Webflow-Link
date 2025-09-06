@@ -1,1 +1,1 @@
-console.log("secondPage has been connected");
+console.log("firstPage has been connected");
