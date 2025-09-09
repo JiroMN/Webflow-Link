@@ -1,0 +1,1 @@
+!function(e,o){"object"==typeof exports&&"object"==typeof module?module.exports=o():"function"==typeof define&&define.amd?define("home-page",[],o):"object"==typeof exports?exports["home-page"]=o():e["home-page"]=o()}(this,()=>(console.log("Hello from Home-Page.js"),{}));
